@@ -1,0 +1,73 @@
+# BLASTN 2.9.0+
+# Query: PcGene1Forward1
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene1Reverse1
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene1Forward2
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene1Reverse2
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene1Forward3
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene1Reverse3
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene2Forward1
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene2Reverse1
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene2Forward2
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene2Reverse2
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene2Forward3
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene2Reverse3
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene3Forward1
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene3Reverse1
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene3Forward2
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene3Reverse2
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene3Forward3
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: PcGene3Reverse3
+# Database: databases/Ramorum_genome_sequence.fasta
+# 0 hits found
+# BLAST processed 18 queries

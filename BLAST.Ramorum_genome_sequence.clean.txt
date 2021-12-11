@@ -1,0 +1,22 @@
+     18 # 0 hits found
+     18 # BLASTN 2.9.0+
+      1 # BLAST processed 18 queries
+     18 # Database: databases/Ramorum_genome_sequence.fasta
+      1 # Query: PcGene1Forward1
+      1 # Query: PcGene1Forward2
+      1 # Query: PcGene1Forward3
+      1 # Query: PcGene1Reverse1
+      1 # Query: PcGene1Reverse2
+      1 # Query: PcGene1Reverse3
+      1 # Query: PcGene2Forward1
+      1 # Query: PcGene2Forward2
+      1 # Query: PcGene2Forward3
+      1 # Query: PcGene2Reverse1
+      1 # Query: PcGene2Reverse2
+      1 # Query: PcGene2Reverse3
+      1 # Query: PcGene3Forward1
+      1 # Query: PcGene3Forward2
+      1 # Query: PcGene3Forward3
+      1 # Query: PcGene3Reverse1
+      1 # Query: PcGene3Reverse2
+      1 # Query: PcGene3Reverse3
