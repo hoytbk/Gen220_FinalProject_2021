@@ -1,0 +1,39 @@
+#!/usr/bin/env python3
+import os
+import sys
+import Bio
+from Bio import SeqIO
+from Bio.Emboss.Applications import Primer3Commandline
+
+INPUT_SEQUENCE = open('Gene1.fasta')
+OUTPUT_SEQUENCE = 'primer.txt'
+sfile = open('Gene1.fasta')
+myseq = SeqIO.read(sfile, 'fasta')
+title = myseq.id
+seq = str(myseq.seq).upper()
+win_size = 45
+i = 0
+number_l = []
+while i <= (len(seq) - win_size):
+    number_l.append(seq[i:i + win_size].count('AAT'))
+    i += 1 # This is the same as i = i+1
+pos = number_l.index(max(number_l))
+pr_cl = Primer3Commandline(sequence=INPUT_SEQUENCE, auto=True)
+pr_cl.outfile = OUTPUT_SEQUENCE
+pr_cl.osize = 25
+pr_cl.maxsize = 28
+pr_cl.minsize = 20
+pr_cl.explainflag = 1
+pr_cl.otm = 55
+pr_cl.mintm = 52
+pr_cl.mingc = 35
+pr_cl.maxgc = 55
+pr_cl.psizeopt = 250
+pr_cl.prange = "100-400"
+pr_cl.target = (pos, win_size)
+
+stdout, stderr = pr_cl()
+pr_cl()
+
+#couldnt get this to work
+#couldnt get $ eprimer3 to work, opted to make them all by hand with primer3.com, I want to revisit this though, have you been #successful with using eprimer3 to make primers?
