@@ -12,6 +12,7 @@ BlastN.XXXX_sequences.clean.txt are me cutting the hits and primer id for each d
 They are displated as an intiger(the #hits) and the primerID, in files that didn't display it like this, all the non P. cinnamomi genomes, showed that there was no hits and displays "0 hits found" at the top of the .txt file
 
 
+
 This is how I created my databases:
 Not all of them would fit into github because they are too large, even when i compressed them, but they are safe on my computer and external harddrive.
 
