@@ -1,6 +1,11 @@
 # Gen220_FinalProject_2021
 Pc Primer design
 
+Primers for Gene 1 only had 1 hit against both P.cinnamomi databases and not any of the other Phytophthora species databases
+Primers for Gene 2 had 2 hits from P. cinnamomi databases for each primer set, and no hits to other Phytophthora species databases
+Primer set 3 for Gene 3 had 1 hits from P.cinnamomi databases and none for other Phytophthora species databases, other 2 primer sets has 2 hits on P.cinnamomi databases and 0 hits on other Phytopthora species
+
+Summary: Primers for Gene 1 work, Primer set 3 for gene 3 works.
 
 BlastN.XXXX_sequences.txt are my blast results for each database against my primer sets
 BlastN.XXXX_sequences.clean.txt are me cutting the hits and primer id for each database, I had an error with this part and couldn't figure out how to exclude the other stuff I didn't want. This made it a problem to try to generate a summary table, but I am still proud I was able to blast all of them against the databases i made and then cut the hits/primerid.
