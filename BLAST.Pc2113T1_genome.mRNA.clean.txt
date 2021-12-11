@@ -1,0 +1,42 @@
+     17 # 1 hits found
+      1 # 2 hits found
+     18 # BLASTN 2.9.0+
+      1 # BLAST processed 18 queries
+     18 # Database: databases/Pc2113T1_genome.mRNA.fasta
+     18 # Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+      1 PcGene1Forward1
+      1 PcGene1Forward2
+      1 PcGene1Forward3
+      1 PcGene1Reverse1
+      1 PcGene1Reverse2
+      1 PcGene1Reverse3
+      1 PcGene2Forward1
+      1 PcGene2Forward2
+      1 PcGene2Forward3
+      1 PcGene2Reverse1
+      1 PcGene2Reverse2
+      1 PcGene2Reverse3
+      2 PcGene3Forward1
+      1 PcGene3Forward2
+      1 PcGene3Forward3
+      1 PcGene3Reverse1
+      1 PcGene3Reverse2
+      1 PcGene3Reverse3
+      1 # Query: PcGene1Forward1
+      1 # Query: PcGene1Forward2
+      1 # Query: PcGene1Forward3
+      1 # Query: PcGene1Reverse1
+      1 # Query: PcGene1Reverse2
+      1 # Query: PcGene1Reverse3
+      1 # Query: PcGene2Forward1
+      1 # Query: PcGene2Forward2
+      1 # Query: PcGene2Forward3
+      1 # Query: PcGene2Reverse1
+      1 # Query: PcGene2Reverse2
+      1 # Query: PcGene2Reverse3
+      1 # Query: PcGene3Forward1
+      1 # Query: PcGene3Forward2
+      1 # Query: PcGene3Forward3
+      1 # Query: PcGene3Reverse1
+      1 # Query: PcGene3Reverse2
+      1 # Query: PcGene3Reverse3

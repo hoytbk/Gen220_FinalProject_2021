@@ -1,0 +1,110 @@
+# BLASTN 2.9.0+
+# Query: PcGene1Forward1
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene1Forward1	Pc2113T1C00002266g0000100.1	100.000	23	0	0	1	23	413	435	8.87e-06	43.6
+# BLASTN 2.9.0+
+# Query: PcGene1Reverse1
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene1Reverse1	Pc2113T1C00002266g0000100.1	100.000	22	0	0	1	22	630	651	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene1Forward2
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene1Forward2	Pc2113T1C00002266g0000100.1	100.000	22	0	0	1	22	418	439	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene1Reverse2
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene1Reverse2	Pc2113T1C00002266g0000100.1	100.000	22	0	0	1	22	633	654	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene1Forward3
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene1Forward3	Pc2113T1C00002266g0000100.1	100.000	22	0	0	1	22	323	344	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene1Reverse3
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene1Reverse3	Pc2113T1C00002266g0000100.1	100.000	22	0	0	1	22	417	438	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene2Forward1
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene2Forward1	Pc2113T1C00002279g0000010.1	100.000	24	0	0	1	24	223	246	2.96e-06	45.4
+# BLASTN 2.9.0+
+# Query: PcGene2Reverse1
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene2Reverse1	Pc2113T1C00002279g0000010.1	100.000	23	0	0	1	23	304	326	8.87e-06	43.6
+# BLASTN 2.9.0+
+# Query: PcGene2Forward2
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene2Forward2	Pc2113T1C00002279g0000010.1	100.000	24	0	0	1	24	230	253	2.96e-06	45.4
+# BLASTN 2.9.0+
+# Query: PcGene2Reverse2
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene2Reverse2	Pc2113T1C00002279g0000010.1	100.000	23	0	0	1	23	357	379	8.87e-06	43.6
+# BLASTN 2.9.0+
+# Query: PcGene2Forward3
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene2Forward3	Pc2113T1C00002279g0000010.1	100.000	22	0	0	1	22	253	274	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene2Reverse3
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene2Reverse3	Pc2113T1C00002279g0000010.1	100.000	22	0	0	1	22	364	385	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene3Forward1
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+PcGene3Forward1	Pc2113T1C00001505g0000050.1	100.000	21	0	0	3	23	245	265	1.15e-04	39.9
+PcGene3Forward1	Pc2113T1C00002228g0000860.1	95.238	21	1	0	3	23	245	265	0.005	34.4
+# BLASTN 2.9.0+
+# Query: PcGene3Reverse1
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene3Reverse1	Pc2113T1C00001505g0000050.1	100.000	22	0	0	1	22	321	342	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene3Forward2
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene3Forward2	Pc2113T1C00001505g0000050.1	95.455	22	1	0	1	22	241	262	0.001	36.2
+# BLASTN 2.9.0+
+# Query: PcGene3Reverse2
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene3Reverse2	Pc2113T1C00001505g0000050.1	100.000	22	0	0	1	22	451	472	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene3Forward3
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene3Forward3	Pc2113T1C00001505g0000050.1	100.000	22	0	0	1	22	269	290	2.55e-05	41.7
+# BLASTN 2.9.0+
+# Query: PcGene3Reverse3
+# Database: databases/Pc2113T1_genome.mRNA.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PcGene3Reverse3	Pc2113T1C00001505g0000050.1	100.000	22	0	0	1	22	477	498	2.55e-05	41.7
+# BLAST processed 18 queries
